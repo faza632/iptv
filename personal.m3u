@@ -1,0 +1,13 @@
+#EXTM3U
+
+###### NASIONAL ################
+#EXTINF:-1 group-title="lokal" tvg-logo="https://id.wikipedia.org/wiki/Ajwa_TV#/media/Berkas:Ajwa_TV_logo.png",Ajwa TV
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1703500117~acl=/hls-p/ingest_7464_*/*~hmac=009a94323e664a4e9a07b138acfa1cfde04940bf6fb05120504e136691b0dcdd/hls-p/ingest_7464_720p/index.m3u8
+
+
+######## ISLAM  ###########
+
+
+#EXTINF:-1 group-title="islam",Kaʿbah al-Musyarrafah
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1703500242~acl=/hls-p/ingest_6852_*/*~hmac=c4f4355ec04d8fcb925e2fe690b9520bb8708cb40e9d9bd57c356d9645456f7b/hls-p/ingest_6852_720p/index.m3u8
+
